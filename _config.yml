@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Logan Williams / Personal Site"
+title                    : "Logan Williams"
 title_separator          : "-"
 name                     : &name "Logan Williams"
 description              : &description "College Student"
@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "Logan Williams"
   pronouns         : "He/Him/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Team Player and motivated problem solver"
   location         : "Illinois"
   employer         : "SIU-Edwardsville"
   uri              : # URL
-  email            : "loganwill921@gmail.com" 
+  Contact Me            : "https://www.linkedin.com/in/logan-williams-559b822aa/" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "logan-williams-559b822aa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
