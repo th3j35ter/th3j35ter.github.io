@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of my website I have put up for CS-325.
+Hello, I am the owner of this page and my name is Logan Williams. I am a 3rd year Computer Science Student at Southern Illinois University Edwardsville.
