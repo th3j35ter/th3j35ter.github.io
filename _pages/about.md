@@ -7,17 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am the owner of this page and my name is Logan Williams. I am a 3rd year Computer Science Student at Southern Illinois University Edwardsville. My goals for the future once I graduate in December 2026 is to find work as a CyberSecurity specialist for a company or agency that I believe is making the world a better place. Eventually, I will pursue change in the systems that exist as they do today in a flawed state. I plan on running for Congress in some capacity to bring the representation that people desperately need and apply a forward way of thinking to modernize the Federal Government.
+Hello! My name is **Logan Williams**, and I’m a third-year Computer Science student at **Southern Illinois University Edwardsville**, with a minor in Criminal Justice. I expect to graduate in **December 2026**.
 
+My career goal is to work as a **Cybersecurity Specialist** for an organization or agency committed to making the world a safer, more equitable place through technology. Long term, I plan to pursue **public service**, including a potential run for Congress, with a focus on modernizing flawed government systems and bringing forward-thinking, tech-driven reform to the federal level.
 
-**Coursework**
-- Cybersecurity Engineering
-- Computer Organization & Architecture
-- Database & Web System Development
-- Software Engineering
-- Operating Systems
-- Programming Languages
+---
 
-  *Technical Skills*
-  - C++, C, C#
-  - AWS IAM, and other tools (i.e. Cloudwatch, DynamoDB, API Gateway, AWS Lambda)
+### 📚 Coursework
+- Cybersecurity Engineering  
+- Computer Organization & Architecture  
+- Database & Web System Development  
+- Software Engineering  
+- Operating Systems  
+- Programming Languages  
+
+---
+
+### 🛠 Technical Skills
+- **Languages**: C++, C, C#  
+- **Cloud & DevOps**: AWS IAM, CloudWatch, DynamoDB, API Gateway, AWS Lambda  
