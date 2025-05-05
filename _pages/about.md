@@ -26,3 +26,6 @@ My career goal is to work as a **Cybersecurity Specialist** for an organization 
 ### 🛠 Technical Skills
 - **Languages**: C++, C, C#  
 - **Cloud & DevOps**: AWS IAM, CloudWatch, DynamoDB, API Gateway, AWS Lambda  
+
+Here is a picture of my dog Tish!
+![Alt text](profile.png)
